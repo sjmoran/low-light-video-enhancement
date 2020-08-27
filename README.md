@@ -5,7 +5,8 @@ Danai Triantafyllidou, [Sean Moran](http://www.seanjmoran.com), Steven McDonagh,
 Huawei Noah's Ark Lab
 
 ### [[Paper]](https://arxiv.org/abs/2007.09187) 
-### [[Video]](http://www.seanjmoran.com/img/1809-10min.wmv) 
+### [[Video (10 Minutes)]](http://www.seanjmoran.com/img/1809-10min.wmv) 
+### [[Video (1 Minute)]](http://www.seanjmoran.com/img/1809-1min.wmv) 
 ### [[Supplementary]](http://www.seanjmoran.com/pdfs/low_light_video_enhancement_using_synthetic_data_produced_with_an_intermediate_domain_mapping-Supplementary%20Material.zip) 
 
 <p align="center">
