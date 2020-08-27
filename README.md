@@ -34,4 +34,4 @@ Repository for the ECCV 20202 paper SIDGAN: Low Light Video Enhancement using Sy
 
 ### Datasets
 
-* __SID-Motion__ (5000 images, RGB, RGB pairs): this dataset can be downloaded [here](https://github.com/cchen156/Seeing-Motion-in-the-Dark).
+* __SID-Motion__: this dataset can be downloaded [here](https://github.com/cchen156/Seeing-Motion-in-the-Dark).
