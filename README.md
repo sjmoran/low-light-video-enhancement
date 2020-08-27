@@ -9,14 +9,14 @@ Huawei Noah's Ark Lab
 ### [[Supplementary]](http://www.seanjmoran.com/pdfs/low_light_video_enhancement_using_synthetic_data_produced_with_an_intermediate_domain_mapping-Supplementary%20Material.zip) 
 
 <p align="center">
-<img src="./images/teaser.png" width="80%"/>
+<img src="./images/sidgan.png" width="80%"/>
 </p>
 Repository for the paper SIDGAN: Low Light Video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping. Here you will find a link to the code and information on the datasets. Please raise a Github issue if you need assistance of have any questions on the research. 
 <p></p>
 
 ### Code
 
-**Code is currently undergoing legal screening **
+**Code is currently undergoing legal screening**
 
 ### Bibtex
 
