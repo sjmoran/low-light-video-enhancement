@@ -16,7 +16,7 @@ Repository for the paper SIDGAN: Low Light Video Enhancement using Synthetic Dat
 
 ### Code
 
-**Code is currently undergoing legal screening**
+**27th August 2020: Code is currently undergoing legal screening**
 
 ### Bibtex
 
