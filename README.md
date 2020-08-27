@@ -12,7 +12,7 @@ Huawei Noah's Ark Lab
 <p align="center">
 <img src="./images/sidgan.png" width="80%"/>
 </p>
-Repository for the ECCV 20202 paper SIDGAN: Low Light Video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping. Here you will find a link to the code and information on the datasets. Please raise a Github issue if you need assistance of have any questions on the research. 
+Repository for the ECCV 2020 paper SIDGAN: Low Light Video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping. Here you will find a link to the code and information on the datasets. Please raise a Github issue if you need assistance of have any questions on the research. 
 <p></p>
 
 ### Code
