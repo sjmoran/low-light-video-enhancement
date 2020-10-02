@@ -17,7 +17,7 @@ Repository for the ECCV 2020 paper SIDGAN: Low Light Video Enhancement using Syn
 
 ### Code
 
-**27th August 2020: Code is currently undergoing legal screening**
+**2nd October 2020: Code is currently undergoing legal screening**
 
 ### Bibtex
 
