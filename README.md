@@ -1,13 +1,13 @@
-# SIDGAN: Low Light Video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping (Paper accepted to ECCV 2020)
+# SIDGAN: Low Light Video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping (ECCV 2020)
 
-Danai Triantafyllidou, [Sean Moran](http://www.seanjmoran.com), Steven McDonagh, Sarah Parisot, [Greg Slabaugh](http://gregslabaugh.net/)
+Danai Triantafyllidou, [Sean Moran](http://www.seanjmoran.com), [Steven McDonagh](https://smcdonagh.github.io/), [Sarah Parisot](https://parisots.github.io/), [Greg Slabaugh](http://gregslabaugh.net/)
 
 Huawei Noah's Ark Lab
 
-### [[Paper]](https://arxiv.org/abs/2007.09187) 
+### [[Paper @ CVF]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580103.pdf) 
 ### [[Video (10 Minutes)]](https://youtu.be/-MwiYBXdtD4) 
 ### [[Video (1 Minute)]](https://youtu.be/mF_ZX0yfMkk)
-### [[Supplementary]](http://www.seanjmoran.com/pdfs/low_light_video_enhancement_using_synthetic_data_produced_with_an_intermediate_domain_mapping-Supplementary%20Material.zip) 
+### [[Supplementary @ CVF]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580103-supp.zip) 
 
 <p align="center">
 <img src="./images/sidgan.png" width="80%"/>
@@ -17,18 +17,18 @@ Repository for the ECCV 2020 paper SIDGAN: Low Light Video Enhancement using Syn
 
 ### Code
 
-**2nd October 2020: Code is currently undergoing legal screening**
+instructions coming soon.
 
 ### Bibtex
 
 ```
-@misc{triantafyllidou2020low,
-    title={Low Light Video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping},
-    author={Danai Triantafyllidou and Sean Moran and Steven McDonagh and Sarah Parisot and Gregory Slabaugh},
-    year={2020},
-    eprint={2007.09187},
-    archivePrefix={arXiv},
-    primaryClass={eess.IV}
+@inproceedings{triantafyllidou2020low,
+  title={Low Light Video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping},
+  author={Triantafyllidou, Danai and Moran, Sean and McDonagh, Steven and Parisot, Sarah and Slabaugh, Gregory},
+  booktitle={European Conference on Computer Vision},
+  pages={103--119},
+  year={2020},
+  organization={Springer}
 }
 ```
 
@@ -38,7 +38,7 @@ Repository for the ECCV 2020 paper SIDGAN: Low Light Video Enhancement using Syn
 
 ### License
 
-BSD-3-Clause License
+BSD-0-Clause License
 
 ### Contributions
 
