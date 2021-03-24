@@ -5,7 +5,7 @@ Danai Triantafyllidou, [Sean Moran](http://www.seanjmoran.com), [Steven McDonagh
 **Huawei Noah's Ark Lab**
 
 <p>
-Author's personal repository for the ECCV 2020 paper <b>SIDGAN: Low Light Video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping</b>. Here you will find a link to the code, pre-trained models and information on the datasets. Please raise a Github issue if you need assistance of have any questions on the research. The official Huawei repository is located <a href="https://github.com/huawei-noah/noah-research/tree/master/SIDGAN">here</a>.
+<i>Author's personal repository</i> for the ECCV 2020 paper <b>SIDGAN: Low Light Video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping</b>. Here you will find a link to the code, pre-trained models and information on the datasets. Please raise a Github issue if you need assistance of have any questions on the research. The official Huawei repository is located <a href="https://github.com/huawei-noah/noah-research/tree/master/SIDGAN">here</a>.
 </p>
 
 ### [[Paper @ CVF]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580103.pdf) [[Video (10 Minutes)]](https://youtu.be/-MwiYBXdtD4) [[Video (1 Minute)]](https://youtu.be/mF_ZX0yfMkk) [[Supplementary @ CVF]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580103-supp.zip) 
